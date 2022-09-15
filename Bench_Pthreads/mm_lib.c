@@ -221,9 +221,9 @@ void mm_F(double *a, double *b, double *c, int N, int Num_threads){
             /* Punteros auxiliares */
             double *pA, *pB;
             pA = a + (j*N);
-            pB = b + (j*N);
+            pB = b + (i*N);
 
-            for (k = 0; k < N; k++, pA++, pB+=N) {
+            for (k = 0; k < N; k++, pA++, pB++) {
                 /* Multiplicación y suma de resultados */ 
                 suma += (*pA * *pB);
             }
