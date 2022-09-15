@@ -1,0 +1,34 @@
+	-> Inicializacion con double aleatorio:
+
+
+
+	Total time ----> |6.183068| <----
+
+	-> Inicializacion con double aleatorio:
+
+
+
+	Total time ----> |6.220427| <----
+
+
+	-> Inicializacion con double aleatorio:
+
+	Total time ----> |5.063045| <----
+
+	-> Inicializacion con double aleatorio:
+
+	Total time ----> |5.149852| <----
+
+
+	-> Inicializacion con double aleatorio:
+	Total time ----> |5.615833| <----
+
+
+	-> Inicializacion con double aleatorio:
+	Total time ----> |6.231894| <----
+	-> Inicializacion con double aleatorio:
+	-> Total time ----> |7.233755| <----
+	-------------------------------------
+	-> Inicializacion con double aleatorio:
+	-> Total time ----> |6.031398| <----
+	-------------------------------------

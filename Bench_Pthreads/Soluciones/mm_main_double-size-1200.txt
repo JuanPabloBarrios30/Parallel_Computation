@@ -1,0 +1,28 @@
+	-> Inicializacion con double:
+
+
+
+	Total time ----> |4.900806| <----
+
+	-> Inicializacion con double:
+
+
+
+	Total time ----> |4.871429| <----
+
+
+	-> Inicializacion con double:
+
+	Total time ----> |4.987240| <----
+
+	-> Inicializacion con double:
+
+	Total time ----> |5.108031| <----
+
+
+	-> Inicializacion con double:
+	Total time ----> |4.968708| <----
+
+
+	-> Inicializacion con double:
+	Total time ----> |5.395432| <----

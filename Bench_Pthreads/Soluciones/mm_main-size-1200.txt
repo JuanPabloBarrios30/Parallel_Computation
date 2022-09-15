@@ -1,0 +1,28 @@
+	-> Inicializacion con entero:
+
+
+
+	Total time ----> |3.806388| <----
+
+	-> Inicializacion con entero:
+
+
+
+	Total time ----> |3.881094| <----
+
+
+	-> Inicializacion con entero:
+
+	Total time ----> |3.972843| <----
+
+	-> Inicializacion con entero:
+
+	Total time ----> |3.934336| <----
+
+
+	-> Inicializacion con entero:
+	Total time ----> |3.951368| <----
+
+
+	-> Inicializacion con entero:
+	Total time ----> |3.774833| <----

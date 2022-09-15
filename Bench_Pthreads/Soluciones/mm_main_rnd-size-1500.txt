@@ -1,0 +1,26 @@
+	-> Inicializacion con entero aleatorio:
+
+
+
+	Total time ----> |9.360475| <----
+
+	-> Inicializacion con entero aleatorio:
+
+
+
+	Total time ----> |9.195911| <----
+
+	-> Inicializacion con entero aleatorio:
+
+	Total time ----> |10.021396| <----
+	-> Inicializacion con entero aleatorio:
+
+	Total time ----> |8.991373| <----
+
+
+	-> Inicializacion con entero aleatorio:
+	Total time ----> |8.794254| <----
+
+
+	-> Inicializacion con entero aleatorio:
+	Total time ----> |9.078419| <----
